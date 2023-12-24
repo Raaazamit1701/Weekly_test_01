@@ -1,0 +1,7 @@
+equipment bag
+ball
+bat
+stump
+batting pads
+gloves
+halmet

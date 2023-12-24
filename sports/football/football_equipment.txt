@@ -1,0 +1,8 @@
+ helmet
+ shoulder pads
+ gloves
+ shoes
+ thigh
+ knee pads
+ mouthguard
+ jockstrap
